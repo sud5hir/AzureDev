@@ -1,0 +1,24 @@
+﻿@page
+@model IndexModel
+@using Microsoft.Extensions.Configuration
+@inject IConfiguration Configuration
+
+@{
+    ViewData["Title"] = "Home page";
+}
+<style>
+    body {
+        background-color: @Configuration["Background-color"]
+    }
+    h1 {
+        color: @Configuration["font-color"];
+        font-size: @Configuration["Font-Size"];
+    }
+</style>
+
+<h1>@Configuration["Message"]</h1>
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>

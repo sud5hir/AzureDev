@@ -1,0 +1,16 @@
+D:\Sudhir_Resume\Sudhir_learn\Azure\WebKeyVault\obj\Release\net6.0\PubTmp\Out\AzureWebKeyVault.exe
+D:\Sudhir_Resume\Sudhir_learn\Azure\WebKeyVault\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Sudhir_Resume\Sudhir_learn\Azure\WebKeyVault\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Sudhir_Resume\Sudhir_learn\Azure\WebKeyVault\obj\Release\net6.0\PubTmp\Out\AzureWebKeyVault.dll
+D:\Sudhir_Resume\Sudhir_learn\Azure\WebKeyVault\obj\Release\net6.0\PubTmp\Out\AzureWebKeyVault.deps.json
+D:\Sudhir_Resume\Sudhir_learn\Azure\WebKeyVault\obj\Release\net6.0\PubTmp\Out\AzureWebKeyVault.runtimeconfig.json
+D:\Sudhir_Resume\Sudhir_learn\Azure\WebKeyVault\obj\Release\net6.0\PubTmp\Out\AzureWebKeyVault.pdb
+D:\Sudhir_Resume\Sudhir_learn\Azure\WebKeyVault\obj\Release\net6.0\PubTmp\Out\Azure.Core.dll
+D:\Sudhir_Resume\Sudhir_learn\Azure\WebKeyVault\obj\Release\net6.0\PubTmp\Out\Azure.Identity.dll
+D:\Sudhir_Resume\Sudhir_learn\Azure\WebKeyVault\obj\Release\net6.0\PubTmp\Out\Azure.Security.KeyVault.Secrets.dll
+D:\Sudhir_Resume\Sudhir_learn\Azure\WebKeyVault\obj\Release\net6.0\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Sudhir_Resume\Sudhir_learn\Azure\WebKeyVault\obj\Release\net6.0\PubTmp\Out\Microsoft.Identity.Client.dll
+D:\Sudhir_Resume\Sudhir_learn\Azure\WebKeyVault\obj\Release\net6.0\PubTmp\Out\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Sudhir_Resume\Sudhir_learn\Azure\WebKeyVault\obj\Release\net6.0\PubTmp\Out\System.Memory.Data.dll
+D:\Sudhir_Resume\Sudhir_learn\Azure\WebKeyVault\obj\Release\net6.0\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
+D:\Sudhir_Resume\Sudhir_learn\Azure\WebKeyVault\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll

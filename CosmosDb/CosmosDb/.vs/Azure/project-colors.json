@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "424625b3-82fc-464a-9d24-389bdae266e4": {
+      "ProjectGuid": "424625b3-82fc-464a-9d24-389bdae266e4",
+      "DisplayName": "CosmosDb",
+      "ColorIndex": 0
+    },
+    "aa278455-656b-4d6f-9754-3eba0f1fc018": {
+      "ProjectGuid": "aa278455-656b-4d6f-9754-3eba0f1fc018",
+      "DisplayName": "FunctionApp1",
+      "ColorIndex": 1
+    },
+    "ddc9ead4-021b-4ace-a4b8-badb0b51e375": {
+      "ProjectGuid": "ddc9ead4-021b-4ace-a4b8-badb0b51e375",
+      "DisplayName": "Blobblock",
+      "ColorIndex": 2
+    },
+    "49fd1f24-6b9a-472f-ab30-3a16498b79ca": {
+      "ProjectGuid": "49fd1f24-6b9a-472f-ab30-3a16498b79ca",
+      "DisplayName": "DotNet6",
+      "ColorIndex": 3
+    },
+    "880eb2b8-7828-4631-af50-ee4b2c76ff47": {
+      "ProjectGuid": "880eb2b8-7828-4631-af50-ee4b2c76ff47",
+      "DisplayName": "Queue",
+      "ColorIndex": 4
+    },
+    "808f2bdb-830c-4933-98a6-b42a58f99cd4": {
+      "ProjectGuid": "808f2bdb-830c-4933-98a6-b42a58f99cd4",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 5
+    },
+    "c279141f-a466-46c5-99ea-5240e33aeccd": {
+      "ProjectGuid": "c279141f-a466-46c5-99ea-5240e33aeccd",
+      "DisplayName": "WebApplication1",
+      "ColorIndex": 6
+    },
+    "9ee01edd-328c-4380-a65b-460eb1f3034a": {
+      "ProjectGuid": "9ee01edd-328c-4380-a65b-460eb1f3034a",
+      "DisplayName": "WebApplication2",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

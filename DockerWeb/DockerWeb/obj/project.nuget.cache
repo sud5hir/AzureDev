@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WOMpaBHN6Dh0dbrJEZ0lKnFWvSruhyBX1aMblBFS/tGT0YxOAkjIYxO/thCKvAqXkttuVci0z99MReUYLvsXzA==",
+  "success": true,
+  "projectFilePath": "D:\\Sudhir_Resume\\Sudhir_learn\\Azure\\DockerWeb\\DockerWeb\\DockerWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sud5h\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}

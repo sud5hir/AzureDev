@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = EventHubSender
+build_property.ProjectDir = D:\Sudhir_Resume\Sudhir_learn\Azure\EventHubSender-20220225T140620Z-001\EventHubSender\

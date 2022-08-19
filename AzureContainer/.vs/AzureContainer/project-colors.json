@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "61dc2397-6a52-44b6-bb1b-62f5f8b5aaf2": {
+      "ProjectGuid": "61dc2397-6a52-44b6-bb1b-62f5f8b5aaf2",
+      "DisplayName": "AzureContainer",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "c4463a69-f84a-4581-aaaa-14edc649858f": {
+      "ProjectGuid": "c4463a69-f84a-4581-aaaa-14edc649858f",
+      "DisplayName": "Blobblock",
+      "ColorIndex": 1
+    },
+    "f05ffef7-2cb9-490b-bd04-734ab7829627": {
+      "ProjectGuid": "f05ffef7-2cb9-490b-bd04-734ab7829627",
+      "DisplayName": "CosmosDb",
+      "ColorIndex": 2
+    },
+    "6a56cd31-423b-4b86-b4f8-adc62d22fa62": {
+      "ProjectGuid": "6a56cd31-423b-4b86-b4f8-adc62d22fa62",
+      "DisplayName": "Queue",
+      "ColorIndex": 3
+    },
+    "f2becad0-e919-41bb-8503-689602a0f130": {
+      "ProjectGuid": "f2becad0-e919-41bb-8503-689602a0f130",
+      "DisplayName": "FunctionApp1",
+      "ColorIndex": 4
+    },
+    "5160fa23-74cc-4363-a8be-cc833f3e1a0a": {
+      "ProjectGuid": "5160fa23-74cc-4363-a8be-cc833f3e1a0a",
+      "DisplayName": "MedicineAppProject",
+      "ColorIndex": 5
+    },
+    "b73e835a-4cbf-41b8-aabc-6c080183f889": {
+      "ProjectGuid": "b73e835a-4cbf-41b8-aabc-6c080183f889",
+      "DisplayName": "AzureAD",
+      "ColorIndex": 6
+    },
+    "af6043b2-7ba2-40c5-96bb-6dafa3c86c41": {
+      "ProjectGuid": "af6043b2-7ba2-40c5-96bb-6dafa3c86c41",
+      "DisplayName": "WebKeyVault",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

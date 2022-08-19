@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5160fa23-74cc-4363-a8be-cc833f3e1a0a": {
+      "ProjectGuid": "5160fa23-74cc-4363-a8be-cc833f3e1a0a",
+      "DisplayName": "MedicineAppProject",
+      "ColorIndex": 0
+    },
+    "f2becad0-e919-41bb-8503-689602a0f130": {
+      "ProjectGuid": "f2becad0-e919-41bb-8503-689602a0f130",
+      "DisplayName": "FunctionApp2",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "c4463a69-f84a-4581-aaaa-14edc649858f": {
+      "ProjectGuid": "c4463a69-f84a-4581-aaaa-14edc649858f",
+      "DisplayName": "Blobblock",
+      "ColorIndex": 2
+    },
+    "f05ffef7-2cb9-490b-bd04-734ab7829627": {
+      "ProjectGuid": "f05ffef7-2cb9-490b-bd04-734ab7829627",
+      "DisplayName": "CosmosDb",
+      "ColorIndex": 3
+    },
+    "6a56cd31-423b-4b86-b4f8-adc62d22fa62": {
+      "ProjectGuid": "6a56cd31-423b-4b86-b4f8-adc62d22fa62",
+      "DisplayName": "Queue",
+      "ColorIndex": 4
+    },
+    "61dc2397-6a52-44b6-bb1b-62f5f8b5aaf2": {
+      "ProjectGuid": "61dc2397-6a52-44b6-bb1b-62f5f8b5aaf2",
+      "DisplayName": "AzureContainer",
+      "ColorIndex": 5
+    },
+    "b73e835a-4cbf-41b8-aabc-6c080183f889": {
+      "ProjectGuid": "b73e835a-4cbf-41b8-aabc-6c080183f889",
+      "DisplayName": "AzureAD",
+      "ColorIndex": 6
+    },
+    "ccb98cbe-19c3-4911-9c83-1bd2f1179a05": {
+      "ProjectGuid": "ccb98cbe-19c3-4911-9c83-1bd2f1179a05",
+      "DisplayName": "KeyVault",
+      "ColorIndex": 7
+    },
+    "b627e3fb-b9db-493e-9d8c-c17ca42cb7f0": {
+      "ProjectGuid": "b627e3fb-b9db-493e-9d8c-c17ca42cb7f0",
+      "DisplayName": "WebKeyVault",
+      "ColorIndex": 8
+    },
+    "7acce440-e0ba-444b-9095-5e894fc085af": {
+      "ProjectGuid": "7acce440-e0ba-444b-9095-5e894fc085af",
+      "DisplayName": "KeyVault",
+      "ColorIndex": 9
+    },
+    "42d6a1f7-f1b4-4e0e-9976-899b4d03f51d": {
+      "ProjectGuid": "42d6a1f7-f1b4-4e0e-9976-899b4d03f51d",
+      "DisplayName": "AppConfig",
+      "ColorIndex": 10
+    },
+    "af6043b2-7ba2-40c5-96bb-6dafa3c86c41": {
+      "ProjectGuid": "af6043b2-7ba2-40c5-96bb-6dafa3c86c41",
+      "DisplayName": "WebKeyVault",
+      "ColorIndex": 11
+    },
+    "8e505ad7-c019-4c0b-9b7a-9e397cd8c70a": {
+      "ProjectGuid": "8e505ad7-c019-4c0b-9b7a-9e397cd8c70a",
+      "DisplayName": "WebAppConfig",
+      "ColorIndex": 12
+    },
+    "1e9a63ed-ab73-4fdb-a8a6-7c0507844f3f": {
+      "ProjectGuid": "1e9a63ed-ab73-4fdb-a8a6-7c0507844f3f",
+      "DisplayName": "AzureEventGrid",
+      "ColorIndex": 13
+    }
+  },
+  "NextColorIndex": 14
+}

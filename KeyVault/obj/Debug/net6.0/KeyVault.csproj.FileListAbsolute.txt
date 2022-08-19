@@ -1,0 +1,15 @@
+D:\Sudhir_Resume\Sudhir_learn\Azure\KeyVault\bin\Debug\net6.0\KeyVault.exe
+D:\Sudhir_Resume\Sudhir_learn\Azure\KeyVault\bin\Debug\net6.0\KeyVault.deps.json
+D:\Sudhir_Resume\Sudhir_learn\Azure\KeyVault\bin\Debug\net6.0\KeyVault.runtimeconfig.json
+D:\Sudhir_Resume\Sudhir_learn\Azure\KeyVault\bin\Debug\net6.0\KeyVault.dll
+D:\Sudhir_Resume\Sudhir_learn\Azure\KeyVault\bin\Debug\net6.0\ref\KeyVault.dll
+D:\Sudhir_Resume\Sudhir_learn\Azure\KeyVault\bin\Debug\net6.0\KeyVault.pdb
+D:\Sudhir_Resume\Sudhir_learn\Azure\KeyVault\obj\Debug\net6.0\KeyVault.csproj.AssemblyReference.cache
+D:\Sudhir_Resume\Sudhir_learn\Azure\KeyVault\obj\Debug\net6.0\KeyVault.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sudhir_Resume\Sudhir_learn\Azure\KeyVault\obj\Debug\net6.0\KeyVault.AssemblyInfoInputs.cache
+D:\Sudhir_Resume\Sudhir_learn\Azure\KeyVault\obj\Debug\net6.0\KeyVault.AssemblyInfo.cs
+D:\Sudhir_Resume\Sudhir_learn\Azure\KeyVault\obj\Debug\net6.0\KeyVault.csproj.CoreCompileInputs.cache
+D:\Sudhir_Resume\Sudhir_learn\Azure\KeyVault\obj\Debug\net6.0\KeyVault.dll
+D:\Sudhir_Resume\Sudhir_learn\Azure\KeyVault\obj\Debug\net6.0\ref\KeyVault.dll
+D:\Sudhir_Resume\Sudhir_learn\Azure\KeyVault\obj\Debug\net6.0\KeyVault.pdb
+D:\Sudhir_Resume\Sudhir_learn\Azure\KeyVault\obj\Debug\net6.0\KeyVault.genruntimeconfig.cache

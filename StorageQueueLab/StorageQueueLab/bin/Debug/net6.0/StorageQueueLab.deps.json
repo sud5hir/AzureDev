@@ -1,0 +1,304 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StorageQueueLab/1.0.0": {
+        "dependencies": {
+          "Azure.Storage.Queues": "12.9.0-beta.3",
+          "System.Configuration.ConfigurationManager": "7.0.0-preview.1.22076.8"
+        },
+        "runtime": {
+          "StorageQueueLab.dll": {}
+        }
+      },
+      "Azure.Core/1.22.0": {
+        "dependencies": {
+          "Microsoft.Bcl.AsyncInterfaces": "1.1.1",
+          "System.Diagnostics.DiagnosticSource": "4.6.0",
+          "System.Memory.Data": "1.0.2",
+          "System.Numerics.Vectors": "4.5.0",
+          "System.Text.Encodings.Web": "4.7.2",
+          "System.Text.Json": "4.7.2",
+          "System.Threading.Tasks.Extensions": "4.5.4"
+        },
+        "runtime": {
+          "lib/net5.0/Azure.Core.dll": {
+            "assemblyVersion": "1.22.0.0",
+            "fileVersion": "1.2200.22.6212"
+          }
+        }
+      },
+      "Azure.Storage.Common/12.10.0-beta.3": {
+        "dependencies": {
+          "Azure.Core": "1.22.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Azure.Storage.Common.dll": {
+            "assemblyVersion": "12.10.0.0",
+            "fileVersion": "12.1000.22.10703"
+          }
+        }
+      },
+      "Azure.Storage.Queues/12.9.0-beta.3": {
+        "dependencies": {
+          "Azure.Storage.Common": "12.10.0-beta.3",
+          "System.Memory.Data": "1.0.2",
+          "System.Text.Json": "4.7.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Azure.Storage.Queues.dll": {
+            "assemblyVersion": "12.9.0.0",
+            "fileVersion": "12.900.22.10703"
+          }
+        }
+      },
+      "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
+        "runtime": {
+          "lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "4.700.20.21406"
+          }
+        }
+      },
+      "Microsoft.Win32.SystemEvents/7.0.0-preview.1.22076.8": {
+        "runtime": {
+          "lib/net6.0/Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.7608"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.7608"
+          }
+        }
+      },
+      "System.Configuration.ConfigurationManager/7.0.0-preview.1.22076.8": {
+        "dependencies": {
+          "System.Security.Cryptography.ProtectedData": "7.0.0-preview.1.22076.8",
+          "System.Security.Permissions": "7.0.0-preview.1.22076.8"
+        },
+        "runtime": {
+          "lib/net6.0/System.Configuration.ConfigurationManager.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.7608"
+          }
+        }
+      },
+      "System.Diagnostics.DiagnosticSource/4.6.0": {},
+      "System.Drawing.Common/7.0.0-preview.1.22076.8": {
+        "dependencies": {
+          "Microsoft.Win32.SystemEvents": "7.0.0-preview.1.22076.8"
+        },
+        "runtime": {
+          "lib/net6.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.7608"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/net6.0/System.Drawing.Common.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.7608"
+          },
+          "runtimes/win/lib/net6.0/System.Drawing.Common.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.7608"
+          }
+        }
+      },
+      "System.Memory.Data/1.0.2": {
+        "dependencies": {
+          "System.Text.Encodings.Web": "4.7.2",
+          "System.Text.Json": "4.7.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Memory.Data.dll": {
+            "assemblyVersion": "1.0.2.0",
+            "fileVersion": "1.0.221.20802"
+          }
+        }
+      },
+      "System.Numerics.Vectors/4.5.0": {},
+      "System.Security.Cryptography.ProtectedData/7.0.0-preview.1.22076.8": {
+        "runtime": {
+          "lib/net6.0/System.Security.Cryptography.ProtectedData.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.7608"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.7608"
+          }
+        }
+      },
+      "System.Security.Permissions/7.0.0-preview.1.22076.8": {
+        "dependencies": {
+          "System.Windows.Extensions": "7.0.0-preview.1.22076.8"
+        },
+        "runtime": {
+          "lib/net6.0/System.Security.Permissions.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.7608"
+          }
+        }
+      },
+      "System.Text.Encodings.Web/4.7.2": {},
+      "System.Text.Json/4.7.2": {},
+      "System.Threading.Tasks.Extensions/4.5.4": {},
+      "System.Windows.Extensions/7.0.0-preview.1.22076.8": {
+        "dependencies": {
+          "System.Drawing.Common": "7.0.0-preview.1.22076.8"
+        },
+        "runtime": {
+          "lib/net6.0/System.Windows.Extensions.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.7608"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/System.Windows.Extensions.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.7608"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StorageQueueLab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Azure.Core/1.22.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ze/xRCHSSDe5TIk5vBDbVrauW1EN7UIbnBvIBfMH8KSt/I9+/7yPAjTBDgNBk0IwG6WBV+BBHp4IUtS/PGAQwQ==",
+      "path": "azure.core/1.22.0",
+      "hashPath": "azure.core.1.22.0.nupkg.sha512"
+    },
+    "Azure.Storage.Common/12.10.0-beta.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-q5y7/QDyxD7OM1q7Wj1PiYIBou+ecrbUGpZPLnOIqfHww6b9VUq9FtgHLOmL3rl2IjRonhaXe500jZ7Ba/rGbg==",
+      "path": "azure.storage.common/12.10.0-beta.3",
+      "hashPath": "azure.storage.common.12.10.0-beta.3.nupkg.sha512"
+    },
+    "Azure.Storage.Queues/12.9.0-beta.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iGaRH15sr8vywzynZuHrPYvxpYR9v1cIWNk7DA4AdApMrmVO1wALNIl0lm0asDCIJO9kLyH26cHRpwWWCsFVmw==",
+      "path": "azure.storage.queues/12.9.0-beta.3",
+      "hashPath": "azure.storage.queues.12.9.0-beta.3.nupkg.sha512"
+    },
+    "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yuvf07qFWFqtK3P/MRkEKLhn5r2UbSpVueRziSqj0yJQIKFwG1pq9mOayK3zE5qZCTs0CbrwL9M6R8VwqyGy2w==",
+      "path": "microsoft.bcl.asyncinterfaces/1.1.1",
+      "hashPath": "microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512"
+    },
+    "Microsoft.Win32.SystemEvents/7.0.0-preview.1.22076.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-l5XKxWSLk70jiOVCZIdnffx72iV6LWfMp5RTEgAKL/NnB1m6zh7ZC0k/N72u4iYKz9joxmbR4nejZWFFukSe9A==",
+      "path": "microsoft.win32.systemevents/7.0.0-preview.1.22076.8",
+      "hashPath": "microsoft.win32.systemevents.7.0.0-preview.1.22076.8.nupkg.sha512"
+    },
+    "System.Configuration.ConfigurationManager/7.0.0-preview.1.22076.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-44hOMZEnsjFSTTZjxPJmFkI09q6ydSW60aCVJxliKWoKEyQXM/r2eO7wixo2L8y5YFCT2JcJud9ga5V2zAgeYQ==",
+      "path": "system.configuration.configurationmanager/7.0.0-preview.1.22076.8",
+      "hashPath": "system.configuration.configurationmanager.7.0.0-preview.1.22076.8.nupkg.sha512"
+    },
+    "System.Diagnostics.DiagnosticSource/4.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mbBgoR0rRfl2uimsZ2avZY8g7Xnh1Mza0rJZLPcxqiMWlkGukjmRkuMJ/er+AhQuiRIh80CR/Hpeztr80seV5g==",
+      "path": "system.diagnostics.diagnosticsource/4.6.0",
+      "hashPath": "system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512"
+    },
+    "System.Drawing.Common/7.0.0-preview.1.22076.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pLk5FX9vmSJL3/3hkdnkpMXTFI56iBZo3sU1mExFU6BlR2YWEYLjZT3WenSVJr2X4HW+ND5FM6zfb/YCLnknuA==",
+      "path": "system.drawing.common/7.0.0-preview.1.22076.8",
+      "hashPath": "system.drawing.common.7.0.0-preview.1.22076.8.nupkg.sha512"
+    },
+    "System.Memory.Data/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JGkzeqgBsiZwKJZ1IxPNsDFZDhUvuEdX8L8BDC8N3KOj+6zMcNU28CNN59TpZE/VJYy9cP+5M+sbxtWJx3/xtw==",
+      "path": "system.memory.data/1.0.2",
+      "hashPath": "system.memory.data.1.0.2.nupkg.sha512"
+    },
+    "System.Numerics.Vectors/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QQTlPTl06J/iiDbJCiepZ4H//BVraReU4O4EoRw1U02H5TLUIT7xn3GnDp9AXPSlJUDyFs4uWjWafNX6WrAojQ==",
+      "path": "system.numerics.vectors/4.5.0",
+      "hashPath": "system.numerics.vectors.4.5.0.nupkg.sha512"
+    },
+    "System.Security.Cryptography.ProtectedData/7.0.0-preview.1.22076.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5+PNjDd7GtbmmJd2ueydjFV41y+XhOudtV/eTlfdJyZIxLJVT4gh0kBJ/Qh1L9IiV5LdLAwFAHVNy5/fTrEelQ==",
+      "path": "system.security.cryptography.protecteddata/7.0.0-preview.1.22076.8",
+      "hashPath": "system.security.cryptography.protecteddata.7.0.0-preview.1.22076.8.nupkg.sha512"
+    },
+    "System.Security.Permissions/7.0.0-preview.1.22076.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4hlffM2/s1WlhpRn8Kln31/YfXY3P95mbQjLrFnenNy3e+qxod+L8Fr/jK4F73Hc/McJnBzxaE01lNM5pxv9xQ==",
+      "path": "system.security.permissions/7.0.0-preview.1.22076.8",
+      "hashPath": "system.security.permissions.7.0.0-preview.1.22076.8.nupkg.sha512"
+    },
+    "System.Text.Encodings.Web/4.7.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iTUgB/WtrZ1sWZs84F2hwyQhiRH6QNjQv2DkwrH+WP6RoFga2Q1m3f9/Q7FG8cck8AdHitQkmkXSY8qylcDmuA==",
+      "path": "system.text.encodings.web/4.7.2",
+      "hashPath": "system.text.encodings.web.4.7.2.nupkg.sha512"
+    },
+    "System.Text.Json/4.7.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TcMd95wcrubm9nHvJEQs70rC0H/8omiSGGpU4FQ/ZA1URIqD4pjmFJh2Mfv1yH1eHgJDWTi2hMDXwTET+zOOyg==",
+      "path": "system.text.json/4.7.2",
+      "hashPath": "system.text.json.4.7.2.nupkg.sha512"
+    },
+    "System.Threading.Tasks.Extensions/4.5.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zteT+G8xuGu6mS+mzDzYXbzS7rd3K6Fjb9RiZlYlJPam2/hU7JCBZBVEcywNuR+oZ1ncTvc/cq0faRr3P01OVg==",
+      "path": "system.threading.tasks.extensions/4.5.4",
+      "hashPath": "system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+    },
+    "System.Windows.Extensions/7.0.0-preview.1.22076.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XdZOFGjkAnRbF7B7+p1lUv7Sx8ludI3ubstWfIP7Emi7RoJYue9ZCjz9WelgyZCFgDQ5OH2u9PCXGwvLXcI4/A==",
+      "path": "system.windows.extensions/7.0.0-preview.1.22076.8",
+      "hashPath": "system.windows.extensions.7.0.0-preview.1.22076.8.nupkg.sha512"
+    }
+  }
+}

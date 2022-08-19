@@ -1,0 +1,7 @@
+D:\Sudhir_Resume\Sudhir_learn\AzureContainer\AzureContainer\obj\Release\net6.0\PubTmp\Out\AzureContainer.exe
+D:\Sudhir_Resume\Sudhir_learn\AzureContainer\AzureContainer\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Sudhir_Resume\Sudhir_learn\AzureContainer\AzureContainer\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Sudhir_Resume\Sudhir_learn\AzureContainer\AzureContainer\obj\Release\net6.0\PubTmp\Out\AzureContainer.dll
+D:\Sudhir_Resume\Sudhir_learn\AzureContainer\AzureContainer\obj\Release\net6.0\PubTmp\Out\AzureContainer.deps.json
+D:\Sudhir_Resume\Sudhir_learn\AzureContainer\AzureContainer\obj\Release\net6.0\PubTmp\Out\AzureContainer.runtimeconfig.json
+D:\Sudhir_Resume\Sudhir_learn\AzureContainer\AzureContainer\obj\Release\net6.0\PubTmp\Out\AzureContainer.pdb

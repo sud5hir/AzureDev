@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "g2X4YeS6TykwxSE3D67BUVS415+2LSkFEn4bZbJjhLBFAOfl8M0pBwvvCwkhYRO1imU4CZz5W/QTYWScWANktQ==",
+  "success": true,
+  "projectFilePath": "D:\\Sudhir_Resume\\Sudhir_learn\\Azure\\AzureContainer\\WebAppConfig\\WebAppConfig.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sud5h\\.nuget\\packages\\azure.core\\1.20.0\\azure.core.1.20.0.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\azure.data.appconfiguration\\1.2.0\\azure.data.appconfiguration.1.2.0.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\azure.messaging.eventgrid\\4.7.0\\azure.messaging.eventgrid.4.7.0.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\azure.security.keyvault.secrets\\4.0.1\\azure.security.keyvault.secrets.4.0.1.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.18\\microsoft.extensions.configuration.3.1.18.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.18\\microsoft.extensions.configuration.abstractions.3.1.18.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\microsoft.extensions.configuration.azureappconfiguration\\5.0.0-preview\\microsoft.extensions.configuration.azureappconfiguration.5.0.0-preview.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.18\\microsoft.extensions.configuration.binder.3.1.18.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.18\\microsoft.extensions.dependencyinjection.3.1.18.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.18\\microsoft.extensions.dependencyinjection.abstractions.3.1.18.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\microsoft.extensions.logging\\3.1.18\\microsoft.extensions.logging.3.1.18.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.18\\microsoft.extensions.logging.abstractions.3.1.18.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\microsoft.extensions.options\\3.1.18\\microsoft.extensions.options.3.1.18.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.18\\microsoft.extensions.primitives.3.1.18.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

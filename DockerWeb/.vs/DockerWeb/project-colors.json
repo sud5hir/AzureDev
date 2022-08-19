@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d7b98da1-e7ce-4395-b7f5-5186d2ccfa58": {
+      "ProjectGuid": "d7b98da1-e7ce-4395-b7f5-5186d2ccfa58",
+      "DisplayName": "DockerWeb",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,14 @@
+{
+  "solution": {
+    "path": "AzureContainer\\AzureContainer.sln",
+    "projects": [
+      "..\\AppserviceMedicine\\MedicineAppProject.csproj",
+      "..\\Blob\\BlockBlob\\ConsoleApp1\\Blobblock.csproj",
+      "..\\CosmosDb\\CosmosDb\\CosmosDb\\CosmosDb.csproj",
+      "..\\FunctionApp1\\FunctionApp1\\FunctionApp2.csproj",
+      "..\\Queue\\Queue.csproj",
+      "..\\WebKeyVault\\WebKeyVault.csproj",
+      "AzureContainer\\AzureContainer.csproj"
+    ]
+  }
+}

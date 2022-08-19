@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "PJPM0THtd1kJjC5w07Wk55V4XJaZbA1sjzEAi2uZdUXhyUrAWVD6l1PcXrxlw1AjY6vqDVBEkSrapPsVuNPcuw==",
+  "success": true,
+  "projectFilePath": "D:\\Sudhir_Resume\\Sudhir_learn\\Azure\\AzureDev\\StorageQueueLab\\StorageQueueLab\\AzureStorageQueueLab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sud5h\\.nuget\\packages\\azure.core\\1.22.0\\azure.core.1.22.0.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\azure.storage.common\\12.10.0-beta.3\\azure.storage.common.12.10.0-beta.3.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\azure.storage.queues\\12.9.0-beta.3\\azure.storage.queues.12.9.0-beta.3.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0-preview.1.22076.8\\microsoft.win32.systemevents.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0-preview.1.22076.8\\system.configuration.configurationmanager.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\system.drawing.common\\7.0.0-preview.1.22076.8\\system.drawing.common.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0-preview.1.22076.8\\system.security.cryptography.protecteddata.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\system.security.permissions\\7.0.0-preview.1.22076.8\\system.security.permissions.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\sud5h\\.nuget\\packages\\system.windows.extensions\\7.0.0-preview.1.22076.8\\system.windows.extensions.7.0.0-preview.1.22076.8.nupkg.sha512"
+  ],
+  "logs": []
+}

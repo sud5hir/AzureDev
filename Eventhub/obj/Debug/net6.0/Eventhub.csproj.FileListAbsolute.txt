@@ -1,0 +1,15 @@
+D:\Sudhir_Resume\Sudhir_learn\Azure\Eventhub\bin\Debug\net6.0\Eventhub.exe
+D:\Sudhir_Resume\Sudhir_learn\Azure\Eventhub\bin\Debug\net6.0\Eventhub.deps.json
+D:\Sudhir_Resume\Sudhir_learn\Azure\Eventhub\bin\Debug\net6.0\Eventhub.runtimeconfig.json
+D:\Sudhir_Resume\Sudhir_learn\Azure\Eventhub\bin\Debug\net6.0\Eventhub.dll
+D:\Sudhir_Resume\Sudhir_learn\Azure\Eventhub\bin\Debug\net6.0\ref\Eventhub.dll
+D:\Sudhir_Resume\Sudhir_learn\Azure\Eventhub\bin\Debug\net6.0\Eventhub.pdb
+D:\Sudhir_Resume\Sudhir_learn\Azure\Eventhub\obj\Debug\net6.0\Eventhub.csproj.AssemblyReference.cache
+D:\Sudhir_Resume\Sudhir_learn\Azure\Eventhub\obj\Debug\net6.0\Eventhub.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sudhir_Resume\Sudhir_learn\Azure\Eventhub\obj\Debug\net6.0\Eventhub.AssemblyInfoInputs.cache
+D:\Sudhir_Resume\Sudhir_learn\Azure\Eventhub\obj\Debug\net6.0\Eventhub.AssemblyInfo.cs
+D:\Sudhir_Resume\Sudhir_learn\Azure\Eventhub\obj\Debug\net6.0\Eventhub.csproj.CoreCompileInputs.cache
+D:\Sudhir_Resume\Sudhir_learn\Azure\Eventhub\obj\Debug\net6.0\Eventhub.dll
+D:\Sudhir_Resume\Sudhir_learn\Azure\Eventhub\obj\Debug\net6.0\ref\Eventhub.dll
+D:\Sudhir_Resume\Sudhir_learn\Azure\Eventhub\obj\Debug\net6.0\Eventhub.pdb
+D:\Sudhir_Resume\Sudhir_learn\Azure\Eventhub\obj\Debug\net6.0\Eventhub.genruntimeconfig.cache
